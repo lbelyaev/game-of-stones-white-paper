@@ -1,3 +1,8 @@
+---
+cover: .gitbook/assets/galaxy.jpg
+coverY: 0
+---
+
 # Intro
 
 ### The Game
