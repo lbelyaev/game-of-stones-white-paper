@@ -8,7 +8,7 @@
 
 ## Gameplay
 
-* [Summary](gameplay/summary.md)
+* [Storyline](gameplay/storyline.md)
 * [Game Launch](gameplay/game-launch.md)
 * [Goals and Play Loop](gameplay/goals-and-play-loop.md)
 * [Game Items](gameplay/game-items/README.md)
