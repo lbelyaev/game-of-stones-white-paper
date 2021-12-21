@@ -1,0 +1,3 @@
+# Extensibility and Evolution
+
+Modular architecture allows constant upgrades and evolution by introducing new game items. Coupled with the game designers' plan to gradually decentralize its ownership and replace centralized control with DAO, it opens possibilities for the community to actively participate in the future game design, too. For example, independent developers can submit their proposal along with the new game item smart contract code to the DAO, and the DAO will vote on these proposals. In case of approval, developers can end up receiving direct royalties from players buying/selling/exchanging/trading of their game items.
