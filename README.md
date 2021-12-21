@@ -1,11 +1,3 @@
-# Disclaimer and Copyright
+# Keepers of The Cryptoverse
 
-Information outlined in this document (white paper) and on our website is constantly updated as the development of the game progresses; any of such content should not be taken as investment advice and does not constitute any offer or recommendation of any investment product.
-
-The most current version of this white paper could be found on: [https://game.fcap.io/whitepaper](https://kotcv.fcap.io/whitepaper)
-
-Copyright © 2021 by FCAP Contributors
-
-This document is released under:
-
-[**Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License**](http://creativecommons.org/licenses/by-nc-nd/4.0/)
+Keepers of the Cryptoverse is a community-driven play-to-earn (P2E) fantasy blockchain-based Game, loosely based on the ideas of Minecraft and some of the popular fantasy space-themed storylines. It could be described as a collectible / puzzle / crafting game based around its own open economy. Its goal is to bring crypto-native folks and also onboard wide masses of ‘crypto-naïves’ to enjoy the quest, competition and rewards.&#x20;

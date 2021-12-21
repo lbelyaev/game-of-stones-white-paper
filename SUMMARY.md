@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Disclaimer and Copyright](README.md)
+* [Keepers of The Cryptoverse](README.md)
+  * [Disclaimer and Copyright](keepers-of-the-cryptoverse/disclaimer-and-copyright.md)
 * [Intro](intro.md)
 * [Team and Philosophy](team-and-philosophy.md)
 * [Roadmap](roadmap.md)
