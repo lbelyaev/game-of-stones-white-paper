@@ -41,3 +41,7 @@ LEQ Tokens could be spent in the following ways:
 The target state of the LEQ Economics is to keep minting (emission) and burning (spending) in a good balance.
 
 ![LEQ Economics](<../.gitbook/assets/image (9).png>)
+
+Planned LEQ distribution is shown in the diagram below:
+
+![LEQ Token Distribution](../.gitbook/assets/image.png)

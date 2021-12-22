@@ -53,5 +53,5 @@ Since every ChainLink VRF request has distinct cost, we've decided to use the se
 
 The process is illustrated on the diagram below:
 
-![Enabling on-chain randomness](<../../.gitbook/assets/image (1).png>)
+![Enabling on-chain randomness](<../../.gitbook/assets/image (1) (1).png>)
 

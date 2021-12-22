@@ -20,4 +20,4 @@ We believe that the relatively easy and straightforward gameplay will be an exce
 
 ### The Studio
 
-The Keepers of the Cryptoverse game is developed and released by the blockchain development and design studio FCAP (The Future Capital - [https://fcap.io](https://fcap.io)). It was founded in 2021 to explore and pursue different avenues in the emerging crypto economy, such as crypto-based financial derivatives, NFTs and gaming.
+The Keepers of the Cryptoverse game is developed and released by the blockchain development and design studio FCAP (The Future Capital). It was founded in 2021 to explore and pursue different avenues in the emerging crypto economy, such as crypto-based financial derivatives, NFTs and gaming.
