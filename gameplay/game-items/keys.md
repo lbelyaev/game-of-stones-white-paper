@@ -1,5 +1,7 @@
 # Keys
 
+![Key](../../.gitbook/assets/Key.png)
+
 Genesis Keys are distributed within 20,000 Genesis items, along with the Tesseracts and Stone Shards.&#x20;
 
 Each Key is unique; Keys have the following distinguishing power:&#x20;
@@ -9,8 +11,6 @@ Each Key is unique; Keys have the following distinguishing power:&#x20;
 * **Math props**. It could be a combination of the following properties: Patterns, Primes, Fibonacci. Each available prop could be used as a wild card for matching hash patterns&#x20;
 * **Kind**. Initially available Keys are able only to lock/unlock Tesseracts.&#x20;
 * **Rarity / Handle**. The use of this property will be revealed further down the Game timeline.&#x20;
-
-![](https://lh6.googleusercontent.com/NT0eUn1jF5Iwfi\_hEWSQ\_pOdOFlxY4bmu4FzctsLQqD5eUJGx\_-1UTLdUCn9C7edB4FvRj5LUqYJXPUxl1CFzJAF80SHKH8DGElQtrHUSivpQPLxYWxZMYTJmyUkyXMUhl2fHm9Z)
 
 Keys are distinguished by a unique Lock Pattern.&#x20;
 

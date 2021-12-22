@@ -1,5 +1,7 @@
 # Tesseracts
 
+![Tesseract](../../.gitbook/assets/tess\_blue.png)
+
 Tesseracts are containers that are used to store Stone Shards and allow them to emit Light Energy Quanta.&#x20;
 
 Initial (Genesis) Tesseracts are distributed within 20,000 of Starter items.&#x20;
@@ -25,8 +27,4 @@ Once LEQ emission starts, it doesn't continue forever, since Tesseracts have a f
 
 In order for LEQ emission to continue, the Tesseract needs recharging. Rechaging costs LEQ and it restores emission power to 100% and starts the new emission cycle.
 
-
-
-
-
-![Tesseract properties and rules](<../../.gitbook/assets/image (3).png>)
+![LEQ emissions depending on Tesseract properties](<../../.gitbook/assets/image (3).png>)

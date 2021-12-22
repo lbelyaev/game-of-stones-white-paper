@@ -6,7 +6,7 @@ Semi-fungible-based game items (Stone Shards) are completely identical within th
 
 Price for Stone Shards will be determined by the following factors:&#x20;
 
-* Kind (different kinds of Stones have different properties, some of which will be revealed at later stages of the Game),&#x20;
-* Size (size determines LEQ emission rate from the locked Stone Shard, and dependency on the Shard size is not linear (i.e. bigger Shards have disproportionately higher LEQ emission rate and vice versa)&#x20;
+* **Kind** (different kinds of Stones have different properties, some of which will be revealed at later stages of the Game),&#x20;
+* **Size** (size determines LEQ emission rate from the locked Stone Shard, and dependency on the Shard size is not linear (i.e. bigger Shards have disproportionately higher LEQ emission rate and vice versa)&#x20;
 
-All game items, non- and semi-fungible will be available to trade/exchange between players (and perhaps collectors) via both internal game marketplace and external secondary marketplaces (OpenSea, etc.).
+All game items, non- and semi-fungible will be available to trade/exchange between players (and perhaps collectors) via both internal game marketplace and external secondary marketplaces (Opensea, etc.).

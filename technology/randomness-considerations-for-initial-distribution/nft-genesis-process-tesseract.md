@@ -1,6 +1,6 @@
 # NFT Genesis Process (Tesseract)
 
-NFT (token ID) genesis is as follows:
+NFT (token ID) genesis process for Genesis Tesseracts is as follows
 
 ![](https://lh6.googleusercontent.com/j63qe1zjDcgqA6Uz\_dWr7ZfEm1R4oTG\_dalP1R9gw3sqrFzteum8cW75DDHFo688OwZeczHvWNz1gUkI1WuOF2OL\_BPw79\_2BjuMNue90FhThaS8zvwQkGYQt4wfE0vZpHp2aDf\_)
 
