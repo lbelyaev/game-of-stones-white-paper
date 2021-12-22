@@ -46,5 +46,12 @@ Since EVM state machine is purely deterministic, general consensus is that there
 * Using external Oracles (such as ChainLink VRF),
 * Using hashes of future blocks (as described [here](https://medium.com/@soliditydeveloper.com/random-number-generation-for-solidity-smart-contracts-1-9ccfc7fcadf0)).
 
+Since every ChainLink VRF request has distinct cost, we've decided to use the second approach with hashes of future blocks. In a nutshell, hash of every next block on Ethereum network could be deemed as random, provided that risk of miner's manipulation is excluded. The mitigation approach is two-phased:
+
+* In the first phase player pays for the mine operation and the future block number (e.g. current block number + 2) is committed
+* Once the future block number is mined, the player can perform the second phase transaction, actually using hash of already mined block to mint new game item (Stone Shard). The only constraint for this phase is that it should be performed within 256 block times (currently a little over 1 hour) since the target block is mined.
+
+The process is illustrated on the diagram below:
+
 ![Enabling on-chain randomness](<../../.gitbook/assets/image (1).png>)
 

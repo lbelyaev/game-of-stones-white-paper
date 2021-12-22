@@ -37,5 +37,5 @@
 
 ***
 
-* [Governance](governance/README.md)
-  * [Governance Token](governance/governance-token.md)
+* [Governance](governance.md)
+  * [Governance Token](tokenomics/governance-token.md)
