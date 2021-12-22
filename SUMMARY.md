@@ -15,6 +15,7 @@
   * [Stone Shards](gameplay/game-items/stone-shards.md)
   * [Tesseracts](gameplay/game-items/tesseracts.md)
   * [Keys](gameplay/game-items/keys.md)
+  * [Items and scenarios coming later](gameplay/game-items/items-and-scenarios-coming-later.md)
 
 ***
 
