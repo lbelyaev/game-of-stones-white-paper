@@ -21,10 +21,9 @@
 
 * [Marketplace and Evolving into Gaming Platform](marketplace-and-evolving-into-gaming-platform.md)
 * [Tokenomics](tokenomics/README.md)
+  * [Light Energy Quanta (LEQ)](tokenomics/light-energy-quanta-leq.md)
   * [Non-fungible and semi-fungible tokens](tokenomics/non-fungible-and-semi-fungible-tokens.md)
   * [Stone Shards Mining](tokenomics/stone-shards-mining.md)
-  * [Light Energy Quanta (LEQ)](tokenomics/light-energy-quanta-leq.md)
-  * [Governance Token](tokenomics/governance-token.md)
 
 ## Technology
 
@@ -38,4 +37,5 @@
 
 ***
 
-* [Governance](governance.md)
+* [Governance](governance/README.md)
+  * [Governance Token](governance/governance-token.md)

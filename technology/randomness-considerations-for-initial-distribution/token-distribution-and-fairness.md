@@ -16,4 +16,4 @@ The shift of minting order is analogous to shifting of a card deck (by a third p
 
 The described process is detailed in the diagram below.
 
-![](<../../.gitbook/assets/image (1).png>)
+![](<../../.gitbook/assets/image (1) (1).png>)

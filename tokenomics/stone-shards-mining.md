@@ -1,6 +1,6 @@
 # Stone Shards Mining
 
-Stone Shards, being parts of the original foundational Stones, are scarce by definition. In order to simulate the increased difficulty of mining them over time, we will use an artificially-programmed difficulty function (analog to what Bitcoin uses).
+Stone Shards, being parts of the original foundational Stones, are scarce by definition. In order to simulate the increased difficulty of mining them over time, the Game will use a difficulty function which produces result similar to Bitcoin mining over time.
 
 ![Stones Shards Mining Over Time](https://lh3.googleusercontent.com/b2N5ruqT1QZA7glQjrhKC2DG0WlfRxAIyfv7qMl5krlQEaFgd6TbZbnJ5mO3Cl93cDH-iwMv7\_dkd6A0g3\_cdo\_yhtJPw6gYLHH9nF-x6UzveCYcYMBlb7Xxyy-U1P2RTyYbOyfk)
 

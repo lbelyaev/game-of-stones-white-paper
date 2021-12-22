@@ -16,3 +16,28 @@ Light Energy monetary supply is made of 2 parts:
   \-- inter-realm travel (to be able to mine Stone Shards in other realms)
 
 Once the Game reaches the designated traction goals, liquidity pools of LEQ will be made available for DEX (Uniswap, Sushiswap, etc.) to enable token liquidity for players and also to bring in new community members.
+
+### Obtaining LEQ Tokens
+
+LEQ Tokens could be obtained by the players in the following ways:
+
+* In the Game, by obtaining a Tesseract, matching Keys and a Stone Shard and locking the Shard in the Tesseract,
+* Out of the Game, via any supported DEX, by swapping of any supported token / coin
+
+### Spending LEQ Tokens
+
+LEQ Tokens could be spent in the following ways:
+
+* In the Game, as a payment for one of the following actions:\
+  \-- Recharging a Tesseract,\
+  \-- Upgrading a Tesseract (size-wise),\
+  \-- Minting Dark Energy (in the future),\
+  \-- Travel between Realms (in the future),\
+  \-- Buying/upgrading player's outfit (in the future)
+* Out of the Game, via any supported DEX, by swapping for any supported token / coin
+
+### LEQ Economics
+
+The target state of the LEQ Economics is to keep minting (emission) and burning (spending) in a good balance.
+
+![LEQ Economics](<../.gitbook/assets/image (9).png>)
