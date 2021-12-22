@@ -24,7 +24,7 @@ Once LEQ emission starts, it doesn't continue forever, since Tesseracts have a f
 
 In order for LEQ emission to continue, the Tesseract needs recharging. Rechaging costs LEQ and it restores emission power to 100% and starts the new emission cycle.
 
-![LEQ emissions depending on Tesseract properties](<../../.gitbook/assets/image (3).png>)
+![LEQ emissions depending on Tesseract properties](<../../.gitbook/assets/image (3) (1).png>)
 
 ### Upgrading Tesseracts
 

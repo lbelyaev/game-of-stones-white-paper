@@ -1,8 +1,8 @@
 # Keys
 
-![Key](../../.gitbook/assets/Key.png)
 
 
+![Key](<../../.gitbook/assets/image (7).png>)
 
 Keys (available initially, also known as Tesseract Keys) are required to lock/unlock Tesseracts.
 

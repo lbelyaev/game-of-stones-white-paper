@@ -16,7 +16,7 @@ Genesis NFT items will be offered in packs:&#x20;
 
 During Launch Presale all Genesis items will have the same generic metadata featuring Game logo and name.
 
-![](<../.gitbook/assets/image (5).png>)
+![Genesis item before metadata reveal](<../.gitbook/assets/image (10).png>)
 
 Launch Presale will limit 10 Genesis items per unique account (Ethereum EOA). Once all Genesis NFTs are sold, metadata reveal will follow in \~5 days.&#x20;
 
