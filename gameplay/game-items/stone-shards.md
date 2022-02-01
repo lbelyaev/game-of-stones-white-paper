@@ -12,6 +12,8 @@ Due to the Epic Blast (see [storyline.md](../storyline.md "mention")), all 5 who
 
 Players’ ability to mine new Stone Shards will be gradually decreasing over time, as more and more Shards get mined.
 
+![Shards of Energy Stone](<../../.gitbook/assets/image (12).png>)
+
 Stone Shards have the following natural properties:
 
 * **Kind** (corresponds to the kind of original Stone; different kinds of Stones have different properties, which will be revealed at later stages of the Game),&#x20;

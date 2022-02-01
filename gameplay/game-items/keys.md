@@ -2,7 +2,7 @@
 
 
 
-![A Key](<../../.gitbook/assets/image (7).png>)
+![A Key](<../../.gitbook/assets/image (7) (1).png>)
 
 Keys (available initially, also known as Tesseract Keys) are required to lock/unlock Tesseracts.
 
@@ -18,7 +18,7 @@ Each Key is unique; Keys have the following distinguishing properties:&#x20;
 
 In order to lock/unlock a Tesseract, a player needs to collect a number of Keys that match or exceed the pattern of a target Tesseract.
 
-![Key and Tesseract lock patterns](<../../.gitbook/assets/image (12).png>)
+![Key and Tesseract lock patterns](<../../.gitbook/assets/image (12) (1).png>)
 
 ![Matching a Key with a Tesseract - mismatch](<../../.gitbook/assets/image (4).png>)
 

@@ -16,6 +16,6 @@ The Council of the Cryptoverse founded the Order of Keepers of the Cryptoverse -
 
 It was found that Stone Shards can start to emit Light Energy once placed and locked in a special container - Tesseract.&#x20;
 
-![Stone Shard inside of a Tesseract](<../.gitbook/assets/image (3).png>)
+![Stone Shard inside a Tesseract](<../.gitbook/assets/image (7).png>)
 
 In order for the Keepers to succeed on their mission, the Council pre-forged 20,000 of Genesis Tesseracts and Keys that are available to anyone who wants to join the Order.
